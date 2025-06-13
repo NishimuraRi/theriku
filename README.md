@@ -1,2 +1,1 @@
-# theriku
-# therime
+# therice
